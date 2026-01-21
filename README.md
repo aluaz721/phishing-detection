@@ -1,4 +1,13 @@
 # phishing-detection
+
+Compares performance of four ML models:
+1. Logistic regression
+2. Naive Bayes
+3. Linear SVM
+4. Random Forest 
+
+on phishing email prediction.
+
 Based on dataset published in this paper:\
 *Al-Subaiey, A., Al-Thani, M., Alam, N. A., Antora, K. F., Khandakar, A., & Zaman, S. A. U.\
 (2024, May 19). Novel Interpretable and Robust Web-based AI Platform for Phishing Email Detection.\
